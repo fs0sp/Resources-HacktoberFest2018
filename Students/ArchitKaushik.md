@@ -1,4 +1,4 @@
-# Manthan Keim
+# Archit Kaushik
 
 ## About Me:
 My name is Archit and I am currently pursuing my B.Tech. in Computer Science from JSS Academy of Technical Education, Noida.
